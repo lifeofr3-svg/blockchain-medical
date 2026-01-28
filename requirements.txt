@@ -1,17 +1,18 @@
 Flask==3.0.2
 gunicorn==21.2.0
 Werkzeug==3.0.1
-pandas==2.2.3
+pandas
 numpy==1.26.4
 scikit-learn==1.6.1
 tensorflow
-torch==2.2.1
-torchvision==0.17.1
-xgboost==3.1.2
-Pillow==9.5.0
-opencv-python-headless==4.9.0.80
+torch
+torchvision
+xgboost
+Pillow
+opencv-python-headless
 web3==6.15.1
 py-solc-x==2.0.2
 bcrypt==4.1.2
 python-dotenv==1.0.1
+
 

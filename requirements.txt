@@ -4,7 +4,7 @@ Werkzeug==3.0.1
 pandas
 numpy==1.26.4
 scikit-learn==1.6.1
-tensorflow
+--extra-index-url https://download.pytorch.org/whl/cpu
 torch
 torchvision
 xgboost
@@ -14,5 +14,3 @@ web3==6.15.1
 py-solc-x==2.0.2
 bcrypt==4.1.2
 python-dotenv==1.0.1
-
-
